@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MusicExhangeHW.iml" filepath="$PROJECT_DIR$/.idea/modules/MusicExhangeHW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MusicExhangeHW_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MusicExhangeHW_main.iml" group="MusicExhangeHW" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MusicExhangeHW_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MusicExhangeHW_test.iml" group="MusicExhangeHW" />
+    </modules>
+  </component>
+</project>
